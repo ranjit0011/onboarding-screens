@@ -8,10 +8,3 @@ Usage:
 * Replace the placeholder content with your own onboarding data and assets.
 * Customize the design to fit your app's branding.
 * Integrate the onboarding screen into your Flutter project.
-
-Author:
-<<<<<<< HEAD
-Ranjit
-=======
-Ranjit
->>>>>>> 83931982ddb453c11c33ed1b8e05b2dfa7b25caa
